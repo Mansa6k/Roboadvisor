@@ -37,7 +37,12 @@ In this section, you create the robo advisor bot and add an intent with its corr
     * I would like to invest for my retirement
 4. Create four slots, as the following image specifies:
 
+<img width="817" alt="Screenshot 2023-04-13 at 10 44 05 AM" src="https://user-images.githubusercontent.com/118853744/231811049-afe6056f-43e3-4456-b824-aa9f03d2b678.png">
+
+
 Remember to mark all the slots as required, as the following image shows:
+<img width="1065" alt="Screenshot 2023-04-13 at 10 45 14 AM" src="https://user-images.githubusercontent.com/118853744/231811150-83066872-c00c-438d-ba28-c92b92d53c40.png">
+
 
 5. Move to the “Confirmation prompt” section, and then set the following messages:
     * Confirm: Thanks, now I will look for the best investment portfolio for you.
@@ -101,7 +106,6 @@ The robo-advisor will engage in a conversation with you to gather your investmen
 
 
 ## License
-Include details about the project's license (e.g., MIT License).
-
+This project is licensed under the MIT license 
 ## Contributors
-Include information about the project's contributors, such as names and contact information.
+Andre Johnson
