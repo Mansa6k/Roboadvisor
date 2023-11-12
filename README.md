@@ -1,7 +1,7 @@
 # Robo-Advisor for Retirement Planning
 
 ## Overview
-In this project, we build a robo-advisor using AWS services, including Amazon Lex and AWS Lambda, to recommend an investment portfolio for a retirement plan. The robo-advisor engages in a conversation with the user to gather their investment requirements and suggests a suitable portfolio based on the user's input.
+In this project, I built a robo-advisor using AWS services, including Amazon Lex and AWS Lambda, to recommend an investment portfolio for a retirement plan. The robo-advisor engages in a conversation with the user to gather their investment requirements and suggests a suitable portfolio based on the user's input.
 
 ## Technologies
 The following technologies and services are used in this project:
